@@ -1,0 +1,35 @@
+.body{
+    background-color:rgb(161, 144, 120);
+    color:black;
+    font-family:consolas;
+
+}
+.a {
+    color:aliceblue;
+}
+.h1{
+    color:black;
+    font-family:consolas;
+
+}
+.page1{
+    display: float;
+    text-align: center;
+}
+.a1{
+    text-decoration: none;
+}
+.img1{
+    display: flex;
+    width: 100%;
+    border-radius: 2%;
+    height: 50%;
+}
+.img2{
+    display: flex;
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 2%;
+    height: 50%;
+
+}
